@@ -1,5 +1,5 @@
 # FIREFIGHT RELOADED Translations
-The official FIREFIGHT RELOADED translation project. All translations will be manually reviewed before they are merged into FIREFIGHT RELOADED. Any strings deemed malicious will have strings reverted back to English. Do not use any machine-translation service or AI.
+The official FIREFIGHT RELOADED translation project. All translations will be manually reviewed before they are merged into FIREFIGHT RELOADED. Any strings deemed malicious will have strings reverted back to English. Do not use any machine-translation service or AI. Translations will be reviewed and/or approved before the release of an update.
 
 NOTE: For Chinese translators: GitLocalize doesn't have Traditional Chinese and Simplified Chinese specifically, so it is set up slightly wierdly here: 
  
