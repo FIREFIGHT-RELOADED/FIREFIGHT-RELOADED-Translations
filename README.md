@@ -3,8 +3,8 @@ The official FIREFIGHT RELOADED translation project. All translations will be ma
 
 NOTE: For Chinese translators: GitLocalize doesn't have Traditional Chinese and Simplified Chinese specifically, so it is set up slightly wierdly here: 
  
-"Chinese, China" is zh_Hant (Traditional Chinese)
-"Chinese" is zh_Hans (Simplified Chinese)
+- "Chinese, China" is zh_Hant (Traditional Chinese).
+- "Chinese" is zh_Hans (Simplified Chinese).
  
 Visit [https://gitlocalize.com/repo/9958](https://gitlocalize.com/repo/9958) and [https://store.steampowered.com/news/app/397680/view/4536906156535185614](https://store.steampowered.com/news/app/397680/view/4536906156535185614) for more information.
  
