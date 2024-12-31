@@ -1,15 +1,15 @@
 {
-    "lang": {
-        "Language": "greek",
-        "Tokens": {
-            "FR_TutorialEnding": "ΕΡΓΑΣΙΑ: ΟΛΟΚΛΗΡΩΘΗΚΕ\nΘΕΜΑ: ΤΑΞΙΔΙΩΤΗΣ\nΛΟΓΟΣ: ΟΛΟΚΛΗΡΩΜΕΝΟΣ ΒΑΣΙΚΟΣ\nΕΚΠΑΙΔΕΥΣΗ ΜΑΧΗΣ ΚΑΙ ΚΙΝΗΣΗΣ",
-            "firefightreloaded_Chapter1_Title": "ΑΠΑΓΟΡΕΥΣΗ ΚΥΚΛΟΦΟΡΙΑΣ",
-            "firefightreloaded_Chapter2_Title": "ΠΑΡΑΚΟΛΟΥΘΗΤΗΣ",
-            "firefightreloaded_Chapter3_Title": "ηλεκτρογεννήτρια",
-            "firefightreloaded_Chapter4_Title": "ΑΝΤΙΣΤΑΣΗ",
-            "firefightreloaded_Chapter5_Title": "ΑΠΟΔΡΟΜΟΣ",
-            "hl2_AmmoFull": "ΓΕΜΑΤΟ",
-            "HL2_GameOver_Object": "ΤΕΛΕΙΩΝΕΙ ΕΔΩ\nΟ FREEMAN ΑΠΕΤΥΧΕ ΝΑ ΔΙΑΤΗΡΗΣΕΙ ΤΟΥΣ ΠΟΡΟΥΣ\nΟΙ ΟΠΟΙΟΙ ΕΙΝΑΙ ΚΡΙΣΙΜΟΙ ΓΙΑ ΤΗ ΝΙΚΗ"
-        }
+  "lang": {
+    "Language": "greek",
+    "Tokens": {
+      "firefightreloaded_Chapter1_Title": "ΑΠΑΓΟΡΕΥΣΗ ΚΥΚΛΟΦΟΡΙΑΣ",
+      "firefightreloaded_Chapter2_Title": "ΠΑΡΑΚΟΛΟΥΘΗΤΗΣ",
+      "firefightreloaded_Chapter3_Title": "ηλεκτρογεννήτρια",
+      "firefightreloaded_Chapter4_Title": "ΑΝΤΙΣΤΑΣΗ",
+      "firefightreloaded_Chapter5_Title": "ΑΠΟΔΡΟΜΟΣ",
+      "hl2_AmmoFull": "ΓΕΜΑΤΟ",
+      "HL2_GameOver_Object": "ΤΕΛΕΙΩΝΕΙ ΕΔΩ\nΟ FREEMAN ΑΠΕΤΥΧΕ ΝΑ ΔΙΑΤΗΡΗΣΕΙ ΤΟΥΣ ΠΟΡΟΥΣ\nΟΙ ΟΠΟΙΟΙ ΕΙΝΑΙ ΚΡΙΣΙΜΟΙ ΓΙΑ ΤΗ ΝΙΚΗ",
+      "FR_TutorialEnding": "ΕΡΓΑΣΙΑ: ΟΛΟΚΛΗΡΩΘΗΚΕ\nΘΕΜΑ: ΤΑΞΙΔΙΩΤΗΣ\nΛΟΓΟΣ: ΟΛΟΚΛΗΡΩΜΕΝΟΣ ΒΑΣΙΚΟΣ\nΕΚΠΑΙΔΕΥΣΗ ΜΑΧΗΣ ΚΑΙ ΚΙΝΗΣΗΣ"
     }
+  }
 }
