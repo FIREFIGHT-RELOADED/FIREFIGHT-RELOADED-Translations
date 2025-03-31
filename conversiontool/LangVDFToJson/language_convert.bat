@@ -1,1 +1,1 @@
-LangVDFToJson.exe "en.json"
+LangVDFConvert.exe "en.json"
