@@ -1,9 +1,7 @@
 {
   "lang": {
-    "english": {
+    "turkish": {
       "tokens": {
-        "#FR_RichPresence_MainMenu": "In-Game: Main Menu",
-        "#FR_RichPresence_InGame": "In-Game: %gamemap%"
       }
     }
   }
