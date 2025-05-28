@@ -513,7 +513,6 @@
       "GameUI_AdvisorBulletResistance": "禁用探员子弹抗性",
       "GameUI_AdvisorPrematureDroning": "允许第 1 阶段探员创建无人机",
       "GameUI_AdvisorDroning": "允许探员创建无人机",
-      "GameUI_Autoaim": "自动瞄准",
       "GameUI_AutoaimController": "自动索敌准星",
       "GameUI_InfiniteKnives": "无限飞刀",
       "GameUI_InfiniteTurrets": "无限炮塔",
