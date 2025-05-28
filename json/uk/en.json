@@ -374,6 +374,7 @@
       "Valve_Hint_Alt_Weapon_Frag": "%+attack% КИДОК ГРАНАТИ %+attack2% ПІДКИД ГРАНАТИ %+attack3% ЗМІНА МІЖ ОСКОЛКОВОЮ/ЗАПАЛЮВАЛЬНОЮ ГРАНАТОЮ",
       "Valve_Hint_Alt_Weapon_Pistol": "%+attack3% ЗМІНА ТИП ОБОЙМИ ДЛЯ .9MM/FLARES",
       "Valve_Hint_Alt_Weapon_Knife": "%+attack2% КИДОК НОЖА",
+      "Valve_Hint_Alt_Weapon_Katana": "ВБИВСТВА КАТАНОЮ ПІД ЧАС КУЛЕМЕТНОЇ ЧЕРГИ ЗБІЛЬШАТЬ ШВИДКІСТЬ І ЗДОРОВ'Я",
       "valve_hint_warning_Weapon_Railgun": "%+reload% ЗАРЯД БАТАРЕЇ НА КРИТИЧНОМУ РІВНІ\nСТАБІЛІЗУЙ І ЗАРЯДИТИ КОСТЮМ\nЗАПОБІГШИ ВИБУХУ",
       "Valve_Hint_Store": "%gamepadui_openstore% OPEN THE STORE %+grapple% ВИКОРИСТОВУВАТИ ГАК-КІШКУ",
       "Valve_Hint_Boss_Start": "%+grapple% СХОПИТИСЯ ЗА ВИСТУП",
