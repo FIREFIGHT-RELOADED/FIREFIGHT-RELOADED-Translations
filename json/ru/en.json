@@ -487,8 +487,6 @@
       "Tutorial_BasicMovement": "%+forward% ДВИГАТЬСЯ ВПЕРЁД %+back% ДВИГАТЬСЯ НАЗАД %+moveleft% ДВИГАТЬСЯ ВЛЕВО %+moveright% ДВИГАТЬСЯ ВПРАВО %+jump% ПРЫГНУТЬ %+duck% ПРИСЕСТЬ",
       "Tutorial_WeaponShoot": "%+attack% ОСНОВНОЙ РЕЖИМ ОГНЯ %+attack2% ДОПОЛНИТЕЛЬНЫЙ РЕЖИМ ОГНЯ %+reload% ПЕРЕЗАРЯДКА %+use% ВЗАИМОДЕЙСТВИЕ %toggle_ironsight% ПРИЦЕЛ %+attack3% ИЗМЕНИТЬ РЕЖИМ ОГНЯ %+kick% ПНУТЬ %toggle_bullettime% БУЛЛЕТ-ТАЙМ",
       "Tutorial_EnemyKilled": "%gamepadui_openstore% МАГАЗИН %buymenu% СТАРЫЙ МАГАЗИН %+attack% УБИВАЙТЕ ВРАГОВ ЧТОБЫ ПОЛУЧИТЬ КЭШ И ОЧКИ ОПЫТА",
-      "GameUI_Language_Vietnamese": "Вьетнамский",
-      "GameUI_Language_Ukrainian": "Украинский",
       "FIREFIGHTRELOADED_KILL20COMBINE_NAME": "Новобранец",
       "FIREFIGHTRELOADED_KILL20COMBINE_DESC": "В общей сложности убить 20 солдат альянса/ГО.",
       "FIREFIGHTRELOADED_KILL20COMBINE_ACHIEVED": "ДОСТИЖЕНИЕ РАЗБЛОКИРОВАНО:\nНовобранец\nУбейте в общей сумме 20 Солдат Альянса/Сотрудников Гражданской Обороны",

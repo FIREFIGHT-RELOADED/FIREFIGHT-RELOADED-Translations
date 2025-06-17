@@ -689,8 +689,6 @@
       "Tutorial_Explosives": "USAR CUALQUIER ARMA EXPLOSIVA TE HARA VOLAR\nCIERTAS ARMAS HARAN TIPOS A LA CABEZA A LOS ENEMIGOS\nCIERTAS ARMAS PUEDEN HACERTE GANAR DYNERO Y EXP EXTRA",
       "Tutorial_Railgun": "%+attack3% SOBRECARGA LA BATERIA DEL CAÑON DE RIEL CON LA BATERIA DE TU TRAJE\nTAMBIEN PUEDES ESPERAR A QUE SE CARGUE POR SI MISMO SI ESTA DEBAJO DE 100\nSE CARGARA MAS RAPIDO SI SE MANTIENE",
       "Tutorial_Grapple_Boss": "%+grapple% PARA HACER GRAPPLE AL MURO %+duck% PARA HACERLO MAS RAPIDO %+kick% PATEA MIENTRAS HACES GRAPPLE PARA HACER DAÑO EXTRA CON ESTA %+moveleft% HACER WALL RUN A LA IZQUIERDA %+moveright% HACER WALL RUN A LA DERECHA",
-      "GameUI_Language_Vietnamese": "Vietnamita",
-      "GameUI_Language_Ukrainian": "Ucraniano",
       "GameUI_Bullettime_Bullet_Speed": "Velocidad de las Trazadoras de Balas en Tiempo Bala",
       "GameUI_Bullettime_Bullet_Speed_Offset": "Desplazamiento de la Velocidad de las Trazadoras de Balas en Tiempo Bala (NPCs)",
       "GameUI_Bullettime_Bullet_Speed_Offset_Player": "Desplazamiento de la Velocidad de las Trazadoras de Balas en Tiempo Bala (Jugador)",

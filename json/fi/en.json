@@ -710,8 +710,6 @@
       "Tutorial_Explosives": "RÄJÄHTEEN LAUKAISEMINEN LENNÄTTÄÄ SINUT ILMAAN\nTIETYILLÄ ASEILLA VOI SAADA PÄÄOSUMIA VIHOLLISIIN\nTIETYT ASEET MAHDOLLISTAVAT YLIMÄÄRÄISEN KASHIN JA\nKOKEMUKSEN KERÄÄMISEN",
       "Tutorial_Railgun": "%+attack3% YLILATAA RAIDETYKIN AKKU PUKUSI VIRRALLA\nVOIT MYÖS ODOTTAA ASEEN LATAUTUVAN JOS SEN VIRTA ON ALLE 100:N\nSE LATAUTUU NOPEAMMIN JOS SE EI OLE KÄYTÖSSÄ.",
       "Tutorial_Grapple_Boss": "%+grapple% TARTU JA KELAA ITSESI SEINÄÄN %+duck% KELATAKSESI NOPEAMMIN %+kick% POTKAISEMALLA VIHOLLISTA TARTTUMASÄDETTÄ KÄYTTÄESSÄSI TEET PALJON VAHINKOA %+moveleft% SEINÄJUOKSE VASEMALLE %+moveright% SEINÄJUOKSE OIKEALLE",
-      "GameUI_Language_Vietnamese": "Vietnam",
-      "GameUI_Language_Ukrainian": "Ukraina",
       "GameUI_Bullettime_Bullet_Speed": "Luotien Valojuovien Nopeus Hidastettuna Ollessa",
       "GameUI_Bullettime_Bullet_Speed_Offset": "Luotien Valojuovien Nopeusero Hidastettuna Ollessa (NPC:illä)",
       "GameUI_Bullettime_Bullet_Speed_Offset_Player": "Luotien Valojuovien Nopeusero Hidastettuna Ollessa (Pelaajalla)",
