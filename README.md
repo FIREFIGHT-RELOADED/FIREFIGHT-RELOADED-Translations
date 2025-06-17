@@ -1,4 +1,4 @@
-# FIREFIGHT RELOADED Translations
+# FIREFIGHT RELOADED Translations (please ready before translating!)
 The official FIREFIGHT RELOADED translation project. All translations will be manually reviewed before they are merged into FIREFIGHT RELOADED. Any strings deemed malicious will have strings reverted back to English. Do not use any machine-translation service or AI. Translations will be reviewed and/or approved before the release of an update. More info below.
 
 Translations will have 2 phases of approval:
